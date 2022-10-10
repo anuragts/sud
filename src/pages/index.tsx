@@ -19,7 +19,7 @@ const Home: NextPage = () => {
           whileHover={{ scale: 1.1, color: "#ffae00" }}
           className="text-xl text-center  sm:text-3xl mt-[80%] sm:mt-[25%] hover:cursor-pointer"
         >
-          Hey !, I am Sudanshu ☕️
+          Hey !, I am Sudhanshu ☕️
         </motion.div>
       </motion.div>
     </>
